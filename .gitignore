@@ -1,0 +1,12 @@
+# Notion API credentials
+.mcp.json
+.notion_api_key
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Claude Code local settings (contains user-specific permissions)
+.claude/settings.local.json
